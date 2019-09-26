@@ -7,3 +7,6 @@ Ce dépôt contient l'ensemble des documents utilisés lors du cours de méthode
 
 --------------------------
 
+Le cours d'introduction portant sur Python est accessible à l'adresse (suivante)[https://github.com/basileMarchand/master_sgm_info].
+
+
